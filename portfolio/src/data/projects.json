@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Employee Manager",
+        "imageSrc": "projects/project.png",
+        "description": "A mobile app for managing employees data and schedules",
+        "skills": [
+            "React-Native",
+            "Express",
+            "Node",
+            "MongoDB"
+        ],
+        "source": "https://github.com/AllanBifom/EMA"
+    },
+    {
+        "title": "CryptoCurrency Tracker ",
+        "imageSrc": "projects/project.png",
+        "description": "A web application for tracking the current trends in the crypto market.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "Rapid Api",
+            "Bootstrap"
+        ],
+        "source": "https://github.com/AllanBifom/reactCryptoProject"
+    },
+    {
+        "title": "Angular tic tac toe ",
+        "imageSrc": "projects/project.png",
+        "description": "An X and O game made with angular and node JS ",
+        "skills": [
+            "Angular",
+            "Express",
+            "Node",
+            "Bootstrap",
+            "type-script"
+        ],
+        "source": "https://github.com/AngularTicTacToe"
+    },
+    {
+        "title": "Beverage Shop ",
+        "imageSrc": "projects/project.png",
+        "description": "A small web App of a beverage shop",
+        "skills": [
+            "Django",
+            "SQL"
+        ],
+        "source": "https://github.com/AllanBifom/PythonBeverageShop"
+    },
+    {
+        "title": "Text Based Slot Machine",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "Python"
+        ],
+        "source": "https://www.github.com"
+    }
+]

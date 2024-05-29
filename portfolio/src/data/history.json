@@ -1,0 +1,52 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "Sasktel",
+        "startDate": "Jul, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "Consistently managing sales force and Oracle application projects to update and improve the company’s software and meet end-user requirements.",
+            "Independently delivering high-quality code and maintaining a strong focus on meeting project milestones",
+            "Utilized version control systems like Git to manage source code andcollaborate with team members.",
+            "Creating design documents and diagrams for projects before actual implementation."
+        ],
+        "imageSrc": "history/sasktel.png"
+    },
+    {
+        "role": "Full Stack Software Developer",
+        "organisation": "Pivot subscriptions",
+        "startDate": "May, 2021",
+        "endDate": "Sep, 2022",
+        "experiences": [
+            "Implemented responsive design principles and front-end technologies, such as HTML, CSS, and React, to develop user interfaces for web applications",
+            "Created tables and records using Postgre SQL on the database server for storing both product and user data.",
+            "Made mobile platforms using react-native for the company’s workflow and operations for the warehouse staff members.",
+            "Made Python scripts for accessing each log file of the different RFID chips and finding anomalies in them."
+        ],
+        "imageSrc": "history/pivot.png"
+    },
+    {
+        "role": "React Developer",
+        "organisation": "Quick-Inspect",
+        "startDate": "Nov, 2023",
+        "endDate": "Jun, 2024",
+        "experiences": [
+            "Created modified and improved React components for the application",
+            "Integrated microservices into the working application",
+            "Implemented mobile features for application"
+        ],
+        "imageSrc": "history/quickInspect.png"
+    },
+    {
+        "role": "IT Intern",
+        "organisation": "Lafarge Holcim",
+        "startDate": "Mar, 2018",
+        "endDate": "Aug, 2018",
+        "experiences": [
+            "Provided technical support for employees regarding computer systems",
+            "Installed, configured, and maintained computer systems",
+            "Installed LAN cables and set up local networks for office staff members"
+        ],
+        "imageSrc": "history/lafarge.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/js.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "skills/angular.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "GraphQL",
+        "imageSrc": "skills/graphql.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "skills/aws.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "skills/django.png"
+    },
+    {
+        "title": "XQuery",
+        "imageSrc": "skills/xquery.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "Kotlin",
+        "imageSrc": "skills/kotlin.png"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+    }
+]
