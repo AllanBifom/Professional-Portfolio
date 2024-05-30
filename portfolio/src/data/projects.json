@@ -25,22 +25,59 @@
         "source": "https://github.com/AllanBifom/reactCryptoProject"
     },
     {
+        "title": "AI Image generator ",
+        "imageSrc": "projects/project.png",
+        "description": "A web application for Generating AI images from taking user search input.",
+        "skills": [
+            "React",
+            "Node",
+            "Open AI",
+            "Bootstrap"
+        ],
+        "source": "https://github.com/AllanBifom/rAIGenerator"
+    },
+    {
+        "title": "Blog Project ",
+        "imageSrc": "projects/project.png",
+        "description": "A web application for Posting blogs initially intended as a way to reach people in need of help.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "JSON"
+        ],
+        "source": "https://github.com/AllanBifom/BlogProject1"
+    },
+    {
+        "title": "Message Board ",
+        "imageSrc": "projects/project.png",
+        "description": "A modified version of the blog project, using bootstrap intended to be a message board.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "SQL",
+            "Bootstrap"
+        ],
+        "source": "https://github.com/AllanBifom/BlogProject1"
+    },
+    {
         "title": "Angular tic tac toe ",
         "imageSrc": "projects/project.png",
-        "description": "An X and O game made with angular and node JS ",
+        "description": "An X and O web game application made with angular and node JS ",
         "skills": [
             "Angular",
             "Express",
             "Node",
             "Bootstrap",
-            "type-script"
+            "typescript"
         ],
-        "source": "https://github.com/AngularTicTacToe"
+        "source": "https://github.com/AllanBifom/AngularTicTacToe"
     },
     {
-        "title": "Beverage Shop ",
+        "title": "Django Beverage Shop ",
         "imageSrc": "projects/project.png",
-        "description": "A small web App of a beverage shop",
+        "description": "A small web App of a beverage shop illustrating Django and SQL",
         "skills": [
             "Django",
             "SQL"
@@ -50,10 +87,19 @@
     {
         "title": "Text Based Slot Machine",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "This is a python made application of a slot machine game.",
         "skills": [
             "Python"
         ],
-        "source": "https://www.github.com"
+        "source": "https://www.github.com/AllanBifom/TextBasedBetSlotMachine"
+    },
+    {
+        "title": "C++ Based Slot Machine",
+        "imageSrc": "projects/project.png",
+        "description": "This is a C++ made application of a slot machine game.",
+        "skills": [
+            "C++"
+        ],
+        "source": "https://www.github.com/AllanBifom/slotMachineCPlusPlus"
     }
 ]
